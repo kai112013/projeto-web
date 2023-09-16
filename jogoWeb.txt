@@ -1,0 +1,9 @@
+projeto de um game de Web que utiliza: html,javascript e css.
+
+objetivo: apenas achar o quadrado branco num fundo totalmente branco(*idea de atualizaçao, com o seu progresso o site mudar de cor*) o jogador deve chegar ate o lvl 100*
+
+perdeu:
+caso o jogador erre 3 vezes sera exibido um anunçio e ele começara novamente do 0
+*para ser justo caso ele erre 1 ou 2 vezes e acerte na ultima não perdera seu progrresso.
+
+futuros lançamentos para android.
